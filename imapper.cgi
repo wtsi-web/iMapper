@@ -3,13 +3,9 @@
 # 
 # Extracts the tr -tagged genomic sequence from uploaded insert sequences
 # and maps to genome.
-#
-# Author:        jk4
-# Maintainer:    jk4
-# Created:       2008-01-29
 
-
-#     Copyright (C) 2008  Kong, J., Zhu, F., Stalker, J. and Adams, D.J.
+#     Authors: Kong, J., Zhu, F., Stalker, J. and Adams, D.J.
+#     Copyright (C) 2008 Genome Research Ltd.
 
 #     This program is free software: you can redistribute it and/or modify
 #     it under the terms of the GNU General Public License as published by
