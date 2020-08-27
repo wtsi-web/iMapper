@@ -6,10 +6,10 @@ package Ssaha_wrapper;
 #
 # place any port/host config info and ssaha parameters into the constructor
 #
-# Author:        sr7
-# Created:       2008-02
+# Author:        Stephen Rice
 
-#     Copyright (C) 2008  Stephen Rice
+
+#     Copyright (C) 2008  Genome Research Ltd.
 
 #     This program is free software: you can redistribute it and/or modify
 #     it under the terms of the GNU General Public License as published by
