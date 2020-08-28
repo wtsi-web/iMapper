@@ -6,7 +6,9 @@ The code is comprised of a Perl CGI script: imapper.cgi and a Perl module: Ssaha
 
 immaper.cgi contains the core GCI code and Ssaha_wrapper.pm contains code that interfaces with ssaha_server.
 
-These files may contain Sanger-specific references that you will need to modify.
+These files contain some Sanger-specific references that you will need to modify.
+
+The server version of ssaha2 that is needed for iMapper is no longer available to download, however we can supply it on request to webmaster@sanger.ac.uk 
 
 If you use iMapper to analyze your insertional datasets and find it useful, we would be appreciate if you could consider citing the reference that describes this work:
 Kong, J., Zhu, F., Stalker, J. and Adams, D.J. (2008) iMapper: a web application for the automated analysis and mapping of insertional mutagenesis sequence data against Ensembl genomes. Bioinformatics (Oxford, England), 24, 2923-2925.
